@@ -1,0 +1,4 @@
+runtime: python39
+service: churn
+env: flex
+entrypoint: gunicorn -b :$PORT main:app
