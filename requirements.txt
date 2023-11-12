@@ -1,4 +1,5 @@
-Falsk
+uwsgi==2.0.22
+Flask==3.0.0
 xgboost
 pandas
-sklearn
+scikit-learn
